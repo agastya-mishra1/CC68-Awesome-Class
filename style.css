@@ -1,0 +1,28 @@
+body{
+background-color: burlywood;
+text-align: center;    
+}
+#aly{
+height: 600px;
+width: 1500px;     
+}
+#name{
+color: firebrick;
+font-style: oblique;
+font-weight: bold;
+font-size: 40px;    
+}
+#c{
+font-size: 40px;
+font-weight: bold;
+color: darkblue;    
+}
+#phone{
+font-weight:bold;
+color:darkgreen;    
+}
+#marque{
+font-size: 30px;
+font-weight: 400;
+color: darkviolet;    
+}
